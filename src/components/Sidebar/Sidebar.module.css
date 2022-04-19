@@ -2,6 +2,10 @@
     grid-area: sidebar;
     background-color: rgb(53, 47, 47);
 }
-.sidebar__item {
-    color:rgb(115, 139, 92)
+.sidebar .item {
+    color:rgb(115, 139, 92);
+    font-size: 33px;
+}
+.sidebar__item{
+    color: azure;
 }

@@ -2,9 +2,9 @@
     background-color: rgb(75, 232, 36);
     grid-area: main;
 }
-.main__list {
-
+.item {
+    color: rgb(29, 16, 172);
 }
-.main {
-
+.list {
+    display: flex;;
 }
