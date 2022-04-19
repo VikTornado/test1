@@ -1,0 +1,7 @@
+.sidebar {
+    grid-area: sidebar;
+    background-color: rgb(53, 47, 47);
+}
+.sidebar__item {
+    color:rgb(115, 139, 92)
+}

@@ -1,0 +1,13 @@
+.footer {
+    background-color: rgb(40, 58, 220);
+    grid-area: footer;
+}
+.footer__list{
+    display: flex;
+}
+.footer__item{
+    list-style-type: none;
+    margin-left: 30px;
+    font-size: 24px;
+    margin-top: auto;
+}
